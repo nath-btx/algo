@@ -44,6 +44,7 @@ function Average(arr)
 // console.log(Average(b));
 // console.log(Average(c));
 
+// OK
 function Min(arr)
 {
     temp = arr[0];
@@ -60,6 +61,7 @@ function Min(arr)
 // console.log(Min(c));
 // console.log(Min(d));
 
+// OK
 function Max(arr)
 {
     temp = arr[0];
@@ -76,6 +78,7 @@ function Max(arr)
 // console.log(Max(c));
 // console.log(Max(d));
 
+// OK
 function Shift(arr)
 {
     temp = arr[0];
@@ -92,6 +95,7 @@ function Shift(arr)
 // console.log(c);
 // console.log(Shift(c));
 
+// OK
 function Diff(arr)
 {
     return Max(arr) - Min(arr);
